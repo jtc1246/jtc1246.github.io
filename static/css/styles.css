@@ -105,7 +105,7 @@ body {
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
-  /* 992 is the boundary between mobile view and desktop view */
+/* Between this width, the screen is too narrow to fully show the nav bar */
 #navid {
   padding-right: 0 !important;
   margin-right: auto !important;
@@ -120,6 +120,16 @@ body {
 #page-top-title {
   margin-left: 16px !important;
 }
+}
+
+/* Make spaces between sections smaller */
+.secfol {
+  padding-top: 2rem !important;
+  padding-bottom: 2.5rem !important;
+}
+
+#home {
+  padding-bottom: 2.5rem !important;
 }
 
 hr {
