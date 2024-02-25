@@ -104,6 +104,24 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* 992 is the boundary between mobile view and desktop view */
+#navid {
+  padding-right: 0 !important;
+  margin-right: auto !important;
+  padding-left: 0 !important;
+  margin-left: auto !important;
+  max-width: calc(793.6px + 20vw) !important;
+}
+#navlist {
+  padding-right: 0 !important;
+  margin-right: 0 !important;
+}
+#page-top-title {
+  margin-left: 16px !important;
+}
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
