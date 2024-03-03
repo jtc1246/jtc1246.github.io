@@ -122,6 +122,48 @@ body {
 }
 }
 
+
+@media (max-width: 500px) {
+div.px-5 {
+  /* not an error, designed to be this, normally right side will look more narrow */
+  padding-left: 2.4rem !important;
+  padding-right: 2.6rem !important;
+}
+}
+
+@media (max-width: 450px) {
+div.px-5 {
+  padding-left: 1.9rem !important;
+  padding-right: 2.1rem !important;
+}
+}
+
+@media (max-width: 420px) {
+div.px-5 {
+  padding-left: 1.4rem !important;
+  padding-right: 1.6rem !important;
+}
+}
+
+@media (max-width: 500px) {
+section div.main-body {
+  font-size: 4.2vw !important;
+  line-height: 1.75 !important;
+  font-weight: 400 !important;
+}
+
+h4, .h4 {
+  font-size: 5.5vw !important;
+}
+
+ul, ol {
+  /* Tried some method, still unable to make the gap between marker and text smaller,
+  This width is almost the smallest one that the marker will not overflow over the left border */
+  padding-left: 4.07vw !important;
+}
+}
+
+
 /* Make spaces between sections smaller */
 .secfol {
   padding-top: 2rem !important;
