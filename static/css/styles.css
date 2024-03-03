@@ -163,6 +163,20 @@ ul, ol {
 }
 }
 
+@media (max-width: 550px) {
+h2:not(#home-subtitle), .h2:not(#home-subtitle) {
+  /* subtitles can fully show in one line even when screen width is very small */
+  font-size: 6.69vw !important;
+}
+}
+
+@media (max-width: 295px) {
+h2#home-subtitle {
+  /* let name can fully show on very small screen */
+  font-size: 10vw !important;
+}
+}
+
 
 /* Make spaces between sections smaller */
 .secfol {
