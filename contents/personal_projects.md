@@ -7,7 +7,7 @@
 - <a href="https://github.com/jtc1246/autoDropbox" target="_blank">autoDropbox</a>: A simple API for Dropbox. Upload and download files from Dropbox in python.
 - <a href="https://github.com/jtc1246/outlook" target="_blank">outlook</a>: A simple email sender for Outlook in python. Through Outlook API, not SMTP.
 
-Links:
+For more about my work and projects:
 <br>
 GitHub: <a href="https://github.com/jtc1246" target="_blank">github.com/jtc1246</a>
 <br>

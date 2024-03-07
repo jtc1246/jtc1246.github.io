@@ -2,7 +2,7 @@
 He is currently pursuing a Bachelor's Degree in computer engineering, at University of Michigan.
 
 #### Skills
-- Programming laguages: Python, C++, Java, sql, JavaScript
+- Programming laguages: Python, C++, C, Java, SQL, JavaScript
 - Tools: PyTorch, OpenCV, Git, Docker
 
 #### Research Interests
