@@ -1,5 +1,5 @@
 
-1. Open Source Projects
+**1. Open Source Projects**
 - <a href="https://github.com/jtc1246/courseSelector" target="_blank">courseSelector</a>: An automatic course selection tool for UM-SJTU Joint Institute. It can use multiple threads to select courses quickly at the beginning of course selection, or continousuly check whether a course has available seats, and select it automatically if it does.
 - <a href="https://github.com/jtc1246/auto-duo" target="_blank">auto-duo</a>: Automatically approve each Duo push request, no need to click on the cellphone.
 - <a href="https://github.com/jtc1246/py-html-graph" target="_blank">py-html-graph
@@ -18,6 +18,6 @@
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PyPI: <a href="https://pypi.org/user/jtc1246" target="_blank">pypi.org/user/jtc1246</a>
 <br><br>
-2. Games (in SJTU, ENGR101)
+**2. Games (in SJTU, ENGR101)**
 - <a href="https://focs.ji.sjtu.edu.cn/silverfocs/demo/2022/p1team11/" target="_blank">BrickNite</a>: A game to break the bricks, with killing boss bonus and tools selection after each level.
 - <a href="https://focs.ji.sjtu.edu.cn/silverfocs/demo/2022/p2team11/" target="_blank">Rhythm Gunner</a>: A music game, shoot the enemies with the rhythm of the music.
