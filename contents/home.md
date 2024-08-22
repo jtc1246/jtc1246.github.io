@@ -6,7 +6,7 @@ He is currently pursuing a Bachelor's Degree in computer engineering, at Univers
 - Tools: PyTorch, OpenCV, Git, Docker
 
 #### Research Interests
-Machine Learning, Computer Vision, Deep Learning, Robotics, Reinforcement Learning, etc.
+Machine Learning, Reinforcement Learning, Large Language Models, etc.
 
 #### Email
 tcjiao&#64;umich.edu <br>
